@@ -8,6 +8,10 @@
 
 `npm run test`
 
+# To sound the whistle
+
+`npm run sound-whistle`
+
 # To sound the bell:
 
 `npm run sound-bell`
